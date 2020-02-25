@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Google Maps Image Downloader
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.11
 // @description  This will add a download button to Google Maps images
 // @author       Batur Kacamak
 // @match        https://google.com/maps/**
@@ -11,7 +11,7 @@
 // @require      https://cdnjs.cloudflare.com/ajax/libs/voca/1.4.0/voca.min.js
 // @updateURL    https://github.com/baturkacamak/Google-Maps-Image-Downloader/blob/master/google-maps-image-downloader.js
 // @downloadURL  https://github.com/baturkacamak/Google-Maps-Image-Downloader/blob/master/google-maps-image-downloader.js
-// @run-at       document-start
+// @run-at       document-end
 // @grant        unsafeWindow
 // @grant        GM_addStyle
 // ==/UserScript==
