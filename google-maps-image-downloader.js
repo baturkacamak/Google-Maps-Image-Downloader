@@ -9,6 +9,8 @@
 // @require      https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/voca/1.4.0/voca.min.js
+// @updateURL    https://github.com/baturkacamak/Google-Maps-Image-Downloader/blob/master/google-maps-image-downloader.js
+// @downloadURL  https://github.com/baturkacamak/Google-Maps-Image-Downloader/blob/master/google-maps-image-downloader.js
 // @run-at       document-start
 // @grant        unsafeWindow
 // @grant        GM_addStyle
